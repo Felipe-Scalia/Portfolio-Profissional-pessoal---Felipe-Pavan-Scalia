@@ -1,1 +1,36 @@
-# repo-template
+# Portfólio - Felipe Pavan Scalia
+
+Portfólio profissional desenvolvido com React, Tailwind CSS e Vite.
+
+## 🚀 Sobre
+
+Site de portfólio pessoal apresentando informações profissionais, habilidades, formação acadêmica e contatos.
+
+## 🛠️ Tecnologias
+
+- React 18
+- Tailwind CSS 4
+- Vite
+- Lucide React (ícones)
+- TypeScript
+
+## 📦 Instalação
+
+```bash
+# Instalar dependências
+pnpm install
+
+# Executar em modo de desenvolvimento
+pnpm run dev
+```
+
+## 👨‍💻 Autor
+
+**Felipe Pavan Scalia**
+- GitHub: [@Felipe-Scalia](https://github.com/Felipe-Scalia)
+- LinkedIn: [Felipe Pavan Scalia](https://www.linkedin.com/in/felipe-pavan-scalia-3b39b33b4)
+- Email: felipeps1411@gmail.com
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
