@@ -30,6 +30,7 @@ pnpm run dev
 - GitHub: [@Felipe-Scalia](https://github.com/Felipe-Scalia)
 - LinkedIn: [Felipe Pavan Scalia](https://www.linkedin.com/in/felipe-pavan-scalia-3b39b33b4)
 - Email: felipeps1411@gmail.com
+- Site Figma: https://www.figma.com/make/hWHYnEVa7DHZptKFvwwaZ5/Create-professional-portfolio-site?p=f&t=gFzEZLYFyfwTtz3t-0
 
 ## 📄 Licença
 
